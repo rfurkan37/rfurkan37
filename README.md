@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Recep Furkan Akın</h1>
 <h3 align="center">A computer science passionate from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rfurkan37" alt="rfurkan37" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/recepfurkanakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recepfurkanakin" height="30" width="40" /></a>
