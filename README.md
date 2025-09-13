@@ -13,22 +13,12 @@
 
 
 ## 🚀 Quick Snapshot
-- 🏢 **Current**: Backend Development Support Engineer @ **Jotform** (serving 25M+ users)
-- 🔬 **Research**: AI-driven predictive maintenance & sustainable battery performance (TÜBİTAK 2209-B supported)
 - 🎓 **B.Sc.** Computer Science & Engineering – *Gebze Technical University* (2021–2025)
 - 🌍 **Exchange**: Informatics – *Schmalkalden University of Applied Sciences, Germany* (Erasmus+)
+- 🔬 **Research**: AI-driven predictive maintenance & sustainable battery performance (TÜBİTAK 2209-B supported)
 - 🤖 **Focus Areas**: Predictive maintenance, TinyML, IoT data ingestion, applied ML
 - 📍 **Location**: İstanbul, Türkiye 🇹🇷
 - 🎯 **Status**: Open to backend / AI / ML opportunities & collaborations
-
----
-
-## 🏆 Selected Achievements
-- Designed improvements contributing to reliability of large-scale form backend (Jotform, 25M+ users)
-- Built internal AI assistant reducing manual analysis time by ~40%
-- Achieved **R² up to 0.938** in battery SOH prediction (LSTM & CNN‑LSTM experiments)
-- Led data preprocessing & feature engineering workflow for degradation modeling
-- Secured **TÜBİTAK 2209-B** support for predictive maintenance research
 
 ---
 
@@ -60,27 +50,6 @@
 
 ---
 
-## 🔬 Research & Technical Interests
-I work on applying deep learning to time‑series sensor data for early degradation detection. Current focus:
-1. Data cleaning & resampling pipelines for irregular IoT telemetry
-2. Hybrid CNN-LSTM architectures for multivariate battery SOH prediction
-3. Feature extraction vs. representation learning trade-offs
-4. Evaluating lightweight TinyML deployment paths for embedded devices
-
----
-
-## 📂 Highlight Projects (selection)
-| Project | Summary | Tech |
-|---------|---------|------|
-| Battery SOH Predictor | CNN-LSTM model with feature engineering + rolling window evaluation (R² 0.93) | Python, TensorFlow, Pandas |
-| Predictive Maintenance Pipeline | Ingestion + preprocessing + model tracking for IoT metrics | Python, FastAPI, scikit-learn |
-| AI Assistant (Internal) | Reduced manual analysis time ~40% via semantic retrieval & prompt templates | TypeScript, OpenAI API, Vector DB |
-| Jotform Backend Enhancements | Reliability & performance improvements (internal tooling) | PHP, Microservices |
-
-➡️ More in pinned repositories (or ask me!).
-
----
-
 ## 📊 GitHub Insights
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rfurkan37&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -96,14 +65,6 @@ I work on applying deep learning to time‑series sensor data for early degradat
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rfurkan37/rfurkan37/output/github-contribution-grid-snake.svg">
 </picture>
 </details>
-
----
-
-## 🧭 Currently
-- 🔁 Refining SOH prediction model generalization
-- 🛠 Experimenting with lightweight model deployment strategies
-- 📚 Exploring vector databases & retrieval-augmented generation patterns
-- 🤝 Open to collaboration (AI for sustainability / backend architecture)
 
 ---
 
