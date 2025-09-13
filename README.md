@@ -53,7 +53,7 @@
 ## 📊 GitHub Insights
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rfurkan37&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfurkan37&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfurkan37&hide=html,css,jupyter%20notebook&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=rfurkan37&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
