@@ -1,5 +1,14 @@
-<div align="center">
-  <h1>👋 Hi, I'm Recep Furkan Akın</h1>
+<div a## 🚀 About Me
+
+**Backend Developer & AI-Focused Computer Science Graduate**
+
+- 🎓 **Education**: Computer Science & Engineering at **Gebze Technical University** (2021-2025)
+- 🌍 **Exchange**: Informatics at **Schmalkalden University**, Germany (Erasmus+)
+- 🔬 **Research**: AI-driven predictive maintenance for sustainable battery performance
+- 💼 **Experience**: 1+ years in backend development with PHP, React, TypeScript, GraphQL
+- 🤖 **AI Projects**: Predictive maintenance systems, TinyML, IoT solutions
+- 📍 **Location**: İstanbul, Türkiye 🇹🇷
+- 🎯 **Status**: Open to new opportunities in backend development and AI/ML<h1>👋 Hi, I'm Recep Furkan Akın</h1>
   <h3>Backend Developer & AI-Focused CS Student</h3>
   <p><strong>Specializing in scalable systems, predictive maintenance, and machine learning</strong></p>
 </div>
@@ -73,7 +82,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/recepfurkanakin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rfurkan37@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfurkan37)
 
 **Open for collaboration on AI/ML projects and backend development opportunities**
 
