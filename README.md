@@ -22,22 +22,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** `Python` • `PHP` • `TypeScript` • `Java` • `C/C++`
-
-**Backend / APIs:** `REST` • `GraphQL` • `Microservices` • `Async Processing`
-
-**ML / Data:** `TensorFlow` • `Keras` • `scikit-learn` • `Pandas` • `NumPy`
-
-**Databases & Infra:** `MySQL` • `Docker` • `Linux` • `CI/CD`
-
-**Frontend & UI:** `React` • `Flutter`
-
-**Tooling & Other:** `Git` • `Testing` • `Observability`
-
-<details>
-<summary>Show badge version</summary>
-
 | Domain | Badges |
 |--------|--------|
 | Languages | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white) |
@@ -45,8 +29,6 @@
 | ML / Data | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
 | Frontend / Mobile | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
 | DevOps | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
-
-</details>
 
 ---
 
